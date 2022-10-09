@@ -1,24 +1,7 @@
-# test-aveds_1
+Создал db.json , в котором находится массив users
 
-## Project setup
-```
-npm install
-```
+Для запуска проекта необходимо ввести в терминале команду -> json-server --watch db.json
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+А также команду -> npm run serve
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+При клике на logo происходит redirect на Главную страницу, если вы не авторизованы и на страницу Личного кабинета, если авторизован

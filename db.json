@@ -1,0 +1,47 @@
+{
+  "users":[
+    {
+      "id": 1,
+      "login": "alex@test.ru",
+      "password": "alex1234",
+      "name": "Алексей"
+    },
+    {
+      "id": 2,
+      "login": "serg@test.ru",
+      "password": "serg1234",
+      "name": "Сергей"
+    },
+    {
+      "id": 3,
+      "login": "petr@test.ru",
+      "password": "petr1234",
+      "name": "Петр"
+    },
+    {
+      "id": 4,
+      "login": "nikita@test.ru",
+      "password": "nikita1234",
+      "name": "Никита"
+    },
+    {
+      "id": 5,
+      "login": "anton@test.ru",
+      "password": "anton1234",
+      "name": "Антон"
+    },
+    {
+      "id": 6,
+      "login": "artem@test.ru",
+      "password": "artem1234",
+      "name": "Артем"
+    },
+    {
+      "id": 7,
+      "login": "vlad@test.ru",
+      "password": "vlad1234",
+      "name": "Влад"
+    }
+  ]
+}
+
